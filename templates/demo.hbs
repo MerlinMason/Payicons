@@ -1,0 +1,53 @@
+<!doctype HTML>
+<html>
+<head>
+    <title>Payicons!</title>
+    <script>
+        {{{loaderText}}}
+        grunticon(["payicons-svg.css", "payicons-png.css", "payicons-fallback.css"]);
+    </script>
+    <noscript><link href="payicons-fallback.css" rel="stylesheet"></noscript>
+    <style>
+        body { font-family:sans-serif; color:#666; max-width:80%; margin:0 auto; }
+        pre { padding-top:20px; margin-bottom:20px; border-top:1px solid #666; }
+        li { float:left; list-style:none; margin:0 10px 10px 0; }
+        ul { overflow:hidden; }
+    </style>
+</head>
+
+<body>
+    <h1>Chimera Payicons</h1>
+    <p>You can download the icons from the <a href="https://github.com/UK2group/Payicons/tree/gh-pages/dist">gh-pages branch</a>.</p>
+    <p>You can contribute to the project by branching from the <a href="https://github.com/UK2group/Payicons">master branch</a>.</p>
+
+    <h2>Sizing</h2>
+    <p>
+        You can add an aditional class to size the icons how you wish, choose from
+        <code>.xs</code>
+        <code>.sm</code>
+        <code>.md</code>
+        <code>.lg</code>
+        <code>.xl</code>
+        <code>.xxl</code>
+        the default is
+        <code>.md</code>
+        size.
+    </p>
+        
+    <h2>Icons</h2>
+
+    {{#each icons}}
+        {{#with this}}
+            <pre><code>{{prefix}}{{name}}:</code></pre>
+            <ul>
+                <li class="{{prefixClass}}{{name}} xxl"></li>
+                <li class="{{prefixClass}}{{name}} xl"></li>
+                <li class="{{prefixClass}}{{name}} lg"></li>
+                <li class="{{prefixClass}}{{name}} md"></li>
+                <li class="{{prefixClass}}{{name}} sm"></li>
+                <li class="{{prefixClass}}{{name}} xs"></li>
+            </ul>
+        {{/with}}
+    {{/each}}
+</body>
+</html>
