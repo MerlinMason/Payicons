@@ -1,0 +1,448 @@
+
+.payicon-amex-alt {
+    background-image: url('png/amex-alt.png');
+    background-repeat: no-repeat;
+    width:60px;
+    height:38px;
+}
+.payicon-amex-alt.xs {
+    width:40px;
+    height:25px;
+}
+.payicon-amex-alt.sm {
+    width:50px;
+    height:32px;
+}
+.payicon-amex-alt.md {
+    width:60px;
+    height:38px;
+}
+.payicon-amex-alt.lg {
+    width:70px;
+    height:44px;
+}
+.payicon-amex-alt.xl {
+    width:90px;
+    height:57px;
+}
+.payicon-amex-alt.xxl {
+    width:120px;
+    height:76px;
+}
+
+
+.payicon-amex {
+    background-image: url('png/amex.png');
+    background-repeat: no-repeat;
+    width:60px;
+    height:38px;
+}
+.payicon-amex.xs {
+    width:40px;
+    height:25px;
+}
+.payicon-amex.sm {
+    width:50px;
+    height:32px;
+}
+.payicon-amex.md {
+    width:60px;
+    height:38px;
+}
+.payicon-amex.lg {
+    width:70px;
+    height:44px;
+}
+.payicon-amex.xl {
+    width:90px;
+    height:57px;
+}
+.payicon-amex.xxl {
+    width:120px;
+    height:76px;
+}
+
+
+.payicon-discover-alt {
+    background-image: url('png/discover-alt.png');
+    background-repeat: no-repeat;
+    width:60px;
+    height:38px;
+}
+.payicon-discover-alt.xs {
+    width:40px;
+    height:25px;
+}
+.payicon-discover-alt.sm {
+    width:50px;
+    height:32px;
+}
+.payicon-discover-alt.md {
+    width:60px;
+    height:38px;
+}
+.payicon-discover-alt.lg {
+    width:70px;
+    height:44px;
+}
+.payicon-discover-alt.xl {
+    width:90px;
+    height:57px;
+}
+.payicon-discover-alt.xxl {
+    width:120px;
+    height:76px;
+}
+
+
+.payicon-discover {
+    background-image: url('png/discover.png');
+    background-repeat: no-repeat;
+    width:60px;
+    height:38px;
+}
+.payicon-discover.xs {
+    width:40px;
+    height:25px;
+}
+.payicon-discover.sm {
+    width:50px;
+    height:32px;
+}
+.payicon-discover.md {
+    width:60px;
+    height:38px;
+}
+.payicon-discover.lg {
+    width:70px;
+    height:44px;
+}
+.payicon-discover.xl {
+    width:90px;
+    height:57px;
+}
+.payicon-discover.xxl {
+    width:120px;
+    height:76px;
+}
+
+
+.payicon-jcb-alt {
+    background-image: url('png/jcb-alt.png');
+    background-repeat: no-repeat;
+    width:60px;
+    height:38px;
+}
+.payicon-jcb-alt.xs {
+    width:40px;
+    height:25px;
+}
+.payicon-jcb-alt.sm {
+    width:50px;
+    height:32px;
+}
+.payicon-jcb-alt.md {
+    width:60px;
+    height:38px;
+}
+.payicon-jcb-alt.lg {
+    width:70px;
+    height:44px;
+}
+.payicon-jcb-alt.xl {
+    width:90px;
+    height:57px;
+}
+.payicon-jcb-alt.xxl {
+    width:120px;
+    height:76px;
+}
+
+
+.payicon-jcb {
+    background-image: url('png/jcb.png');
+    background-repeat: no-repeat;
+    width:60px;
+    height:38px;
+}
+.payicon-jcb.xs {
+    width:40px;
+    height:25px;
+}
+.payicon-jcb.sm {
+    width:50px;
+    height:32px;
+}
+.payicon-jcb.md {
+    width:60px;
+    height:38px;
+}
+.payicon-jcb.lg {
+    width:70px;
+    height:44px;
+}
+.payicon-jcb.xl {
+    width:90px;
+    height:57px;
+}
+.payicon-jcb.xxl {
+    width:120px;
+    height:76px;
+}
+
+
+.payicon-maestro-alt {
+    background-image: url('png/maestro-alt.png');
+    background-repeat: no-repeat;
+    width:60px;
+    height:38px;
+}
+.payicon-maestro-alt.xs {
+    width:40px;
+    height:25px;
+}
+.payicon-maestro-alt.sm {
+    width:50px;
+    height:32px;
+}
+.payicon-maestro-alt.md {
+    width:60px;
+    height:38px;
+}
+.payicon-maestro-alt.lg {
+    width:70px;
+    height:44px;
+}
+.payicon-maestro-alt.xl {
+    width:90px;
+    height:57px;
+}
+.payicon-maestro-alt.xxl {
+    width:120px;
+    height:76px;
+}
+
+
+.payicon-maestro {
+    background-image: url('png/maestro.png');
+    background-repeat: no-repeat;
+    width:60px;
+    height:38px;
+}
+.payicon-maestro.xs {
+    width:40px;
+    height:25px;
+}
+.payicon-maestro.sm {
+    width:50px;
+    height:32px;
+}
+.payicon-maestro.md {
+    width:60px;
+    height:38px;
+}
+.payicon-maestro.lg {
+    width:70px;
+    height:44px;
+}
+.payicon-maestro.xl {
+    width:90px;
+    height:57px;
+}
+.payicon-maestro.xxl {
+    width:120px;
+    height:76px;
+}
+
+
+.payicon-mastercard-alt {
+    background-image: url('png/mastercard-alt.png');
+    background-repeat: no-repeat;
+    width:60px;
+    height:38px;
+}
+.payicon-mastercard-alt.xs {
+    width:40px;
+    height:25px;
+}
+.payicon-mastercard-alt.sm {
+    width:50px;
+    height:32px;
+}
+.payicon-mastercard-alt.md {
+    width:60px;
+    height:38px;
+}
+.payicon-mastercard-alt.lg {
+    width:70px;
+    height:44px;
+}
+.payicon-mastercard-alt.xl {
+    width:90px;
+    height:57px;
+}
+.payicon-mastercard-alt.xxl {
+    width:120px;
+    height:76px;
+}
+
+
+.payicon-mastercard {
+    background-image: url('png/mastercard.png');
+    background-repeat: no-repeat;
+    width:60px;
+    height:38px;
+}
+.payicon-mastercard.xs {
+    width:40px;
+    height:25px;
+}
+.payicon-mastercard.sm {
+    width:50px;
+    height:32px;
+}
+.payicon-mastercard.md {
+    width:60px;
+    height:38px;
+}
+.payicon-mastercard.lg {
+    width:70px;
+    height:44px;
+}
+.payicon-mastercard.xl {
+    width:90px;
+    height:57px;
+}
+.payicon-mastercard.xxl {
+    width:120px;
+    height:76px;
+}
+
+
+.payicon-paypal-alt {
+    background-image: url('png/paypal-alt.png');
+    background-repeat: no-repeat;
+    width:60px;
+    height:38px;
+}
+.payicon-paypal-alt.xs {
+    width:40px;
+    height:25px;
+}
+.payicon-paypal-alt.sm {
+    width:50px;
+    height:32px;
+}
+.payicon-paypal-alt.md {
+    width:60px;
+    height:38px;
+}
+.payicon-paypal-alt.lg {
+    width:70px;
+    height:44px;
+}
+.payicon-paypal-alt.xl {
+    width:90px;
+    height:57px;
+}
+.payicon-paypal-alt.xxl {
+    width:120px;
+    height:76px;
+}
+
+
+.payicon-paypal {
+    background-image: url('png/paypal.png');
+    background-repeat: no-repeat;
+    width:60px;
+    height:38px;
+}
+.payicon-paypal.xs {
+    width:40px;
+    height:25px;
+}
+.payicon-paypal.sm {
+    width:50px;
+    height:32px;
+}
+.payicon-paypal.md {
+    width:60px;
+    height:38px;
+}
+.payicon-paypal.lg {
+    width:70px;
+    height:44px;
+}
+.payicon-paypal.xl {
+    width:90px;
+    height:57px;
+}
+.payicon-paypal.xxl {
+    width:120px;
+    height:76px;
+}
+
+
+.payicon-visa-alt {
+    background-image: url('png/visa-alt.png');
+    background-repeat: no-repeat;
+    width:60px;
+    height:38px;
+}
+.payicon-visa-alt.xs {
+    width:40px;
+    height:25px;
+}
+.payicon-visa-alt.sm {
+    width:50px;
+    height:32px;
+}
+.payicon-visa-alt.md {
+    width:60px;
+    height:38px;
+}
+.payicon-visa-alt.lg {
+    width:70px;
+    height:44px;
+}
+.payicon-visa-alt.xl {
+    width:90px;
+    height:57px;
+}
+.payicon-visa-alt.xxl {
+    width:120px;
+    height:76px;
+}
+
+
+.payicon-visa {
+    background-image: url('png/visa.png');
+    background-repeat: no-repeat;
+    width:60px;
+    height:38px;
+}
+.payicon-visa.xs {
+    width:40px;
+    height:25px;
+}
+.payicon-visa.sm {
+    width:50px;
+    height:32px;
+}
+.payicon-visa.md {
+    width:60px;
+    height:38px;
+}
+.payicon-visa.lg {
+    width:70px;
+    height:44px;
+}
+.payicon-visa.xl {
+    width:90px;
+    height:57px;
+}
+.payicon-visa.xxl {
+    width:120px;
+    height:76px;
+}
+
